@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello world! 👋
+Benvenuti nel repository del corso di Laurea Magistrale in Informatica Umanistica (Università di Pisa).
 <!--
 **infouma-unipi/infouma-unipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Infouma-unipi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyereth&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
