@@ -1,5 +1,7 @@
 # Hello world! 👋
 Benvenuti nel repository del corso di Laurea Magistrale in Informatica Umanistica (Università di Pisa).
+Qui troverete materiali e codice utile per i diversi corsi, ogni contributo è ben accetto :)
+ 
 <!--
 **infouma-unipi/infouma-unipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
